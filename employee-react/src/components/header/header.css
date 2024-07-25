@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #358de5;
+}
+ .navbar .navbar-brand {
+    color:  #fff;
+ }
+
+ .navbar .nav-link {
+    color: #fff !important;
+    text-decoration: none !important;
+    margin-right: 20px;
+ }
+
+ @media (max_width: 576px) {
+    .navbar .nav-link{
+        margin-right: 0;
+    }
+    
+ }
